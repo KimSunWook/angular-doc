@@ -234,5 +234,8 @@
       }
     }
   },
-  "defaultProject": "Vien-Angular"
+  "defaultProject": "Vien-Angular",
+  "cli": {
+    "analytics": "f091c3f8-d867-408b-b45e-ceefb916eb23"
+  }
 }
